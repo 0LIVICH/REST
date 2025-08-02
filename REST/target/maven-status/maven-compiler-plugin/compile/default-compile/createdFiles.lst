@@ -1,0 +1,9 @@
+com/example/AuthorizationServiceApplication.class
+com/example/exception/GlobalExceptionHandler.class
+com/example/repository/UserRepository.class
+com/example/controller/AuthorizationController.class
+com/example/exception/UnauthorizedUser.class
+com/example/service/AuthorizationService.class
+com/example/domain/Authorities.class
+com/example/exception/InvalidCredentials.class
+com/example/repository/UserRepository$UserData.class

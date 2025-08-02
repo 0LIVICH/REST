@@ -1,0 +1,8 @@
+/Users/taga/Desktop/нетология/REST/src/main/java/com/example/domain/Authorities.java
+/Users/taga/Desktop/нетология/REST/src/main/java/com/example/controller/AuthorizationController.java
+/Users/taga/Desktop/нетология/REST/src/main/java/com/example/exception/InvalidCredentials.java
+/Users/taga/Desktop/нетология/REST/src/main/java/com/example/AuthorizationServiceApplication.java
+/Users/taga/Desktop/нетология/REST/src/main/java/com/example/exception/GlobalExceptionHandler.java
+/Users/taga/Desktop/нетология/REST/src/main/java/com/example/repository/UserRepository.java
+/Users/taga/Desktop/нетология/REST/src/main/java/com/example/exception/UnauthorizedUser.java
+/Users/taga/Desktop/нетология/REST/src/main/java/com/example/service/AuthorizationService.java
